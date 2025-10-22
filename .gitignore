@@ -20,6 +20,9 @@ buildNumber.properties
 .project
 .settings/
 bin/
+*.swp
+*.swo
+*~
 
 # OS
 .DS_Store
@@ -33,3 +36,4 @@ logs/
 *.tmp
 *.swp
 *~
+/tmp/
